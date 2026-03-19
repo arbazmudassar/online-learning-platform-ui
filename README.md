@@ -99,7 +99,7 @@ Contributions are welcome! Fork the repository and improve the design or add fea
 
 ## 📬 Contact
 
-* GitHub: https://github.com/arbaz-mudassar
+* GitHub: https://github.com/arbazmudassar
 * Email: [arbazmudassar@gmail.com](mailto:arbazmudassar0@gmail.com)
 
 ---
