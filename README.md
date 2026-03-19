@@ -60,8 +60,9 @@ git clone https://github.com/your-username/online-learning-platform-ui.git
 ## 📸 Screenshots
 
 * Home page layout
-  <img width="1440" height="828" alt="Screenshot 2026-03-19 153949" src="https://github.com/user-attachments/assets/13a3d7c0-b51d-42bb-8a80-7a6293f18ef0" />
+  
 <img width="1768" height="731" alt="Screenshot 2026-03-19 153936" src="https://github.com/user-attachments/assets/e3fbafd2-2a45-4f02-9f23-42be9dabcecb" />
+<img width="1440" height="828" alt="Screenshot 2026-03-19 153949" src="https://github.com/user-attachments/assets/13a3d7c0-b51d-42bb-8a80-7a6293f18ef0" />
 * Course sections
 
 <img width="1699" height="865" alt="Screenshot 2026-03-19 153959" src="https://github.com/user-attachments/assets/02bb2929-aae2-4e1e-bc41-ac6e482a90b9" />
