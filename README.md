@@ -19,6 +19,11 @@ This UI project simulates an online learning platform, allowing students to expl
 
 ---
 
+## 🔗 Live Demo
+https://arbazmudassar.github.io/online-learning-platform-ui/
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML** – Structure of pages
